@@ -6,10 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import { Authenticator } from "@aws-amplify/ui-react";
 import { BrowserRouter } from 'react-router-dom';
 import { Amplify } from 'aws-amplify';
-import awsExports from './aws-exports';
 import PropTypes from 'prop-types'; // Import PropTypes
-
-Amplify.configure(awsExports);
 
 // Use to retrieve airport chosen for departure info
 export const LocationContext = React.createContext();
