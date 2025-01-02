@@ -112,7 +112,7 @@ export function Home() {
         <div className="d-flex flex-column justify-content-center align-items-center" style={{ paddingTop:'5%' }}>
           <img src={NewLogo} alt="Logo" className="img-fluid" style={{ maxWidth: '200px', height: 'auto' }} />
           <div className="text-center mt-3" style={{ fontSize: '4rem', fontFamily: 'sans-serif' }}>
-              GET UR TICKETS
+          Ticket Search Pro
           </div>
         </div>
       </div>

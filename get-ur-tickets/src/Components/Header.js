@@ -52,7 +52,7 @@ const Header = () => {
                                 transition: 'font-size 0.3s ease',
                             }}
                         >
-                        Get Ur Tickets
+                        Ticket Search Pro
                         </Link>
                     </div>
                 </div>
